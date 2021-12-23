@@ -176,6 +176,12 @@ body {
   background-color: var(--accent-color);
 }
 
+.btn-text:hover,
+.btn-text:focus {
+  color: var(--color-logo-wh);
+  background-color: #188ce8;
+}
+
 .name-project {
   font-size: 18px;
   line-height: 2;
